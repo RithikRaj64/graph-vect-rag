@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="graph_vect_rag",
-    version="1.0.0",
+    version="1.0.1",
     author="Rithik Raj K S",
     author_email="rithu0644@gmail.com",
     packages=find_packages(),
